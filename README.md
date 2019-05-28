@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Robin Wood's Portfolio
+This is my Portfolio. It uses AWS and ReactJS
